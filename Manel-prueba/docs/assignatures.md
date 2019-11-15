@@ -1,0 +1,34 @@
+#Assignatures de l'institut
+
+* M01
+    * UF1
+    * UF2
+    * UF3
+* M02
+    * UF1
+    * UF2
+    * UF3
+* M03
+    * UF1
+    * UF2
+    * UF3
+* M04
+    * UF1
+    * UF2
+    * UF3
+* M05
+    * UF1
+    * UF2
+    * UF3
+* M06
+    * UF1
+    * UF2
+    * UF3
+* M07
+    * UF1
+    * UF2
+    * UF3
+* M08
+    * UF1
+    * UF2
+    * UF3

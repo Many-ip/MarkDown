@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Manel-Institut Pedralbes
+nav:
+    - Home: index.md
+    - Assignatures de l'institut: assignatures.md
+    - Menjars preferits: menjar.md
+    - MyAnimeList: anime.md
+    - España es una democracia? : respuesta.md
+theme: readthedocs
