@@ -2,7 +2,8 @@ site_name: Manel-Institut Pedralbes
 nav:
     - Home: index.md
     - Assignatures de l'institut: assignatures.md
-    - Menjars preferits: menjar.md
-    - MyAnimeList: anime.md
-    - España es una democracia? : respuesta.md
-theme: readthedocs
+    - Menjar preferit: menjar.md
+    - HOLA: hola.md
+    - Como se añade un footer a todas las paginas: respuesta.md
+theme:
+  name: 'material'
