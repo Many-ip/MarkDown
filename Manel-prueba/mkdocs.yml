@@ -5,3 +5,4 @@ nav:
     - Menjar preferit: menjar.md
     - HOLA: hola.md
     - Como se añade un footer a todas las paginas: respuesta.md
+theme: readthedocs
